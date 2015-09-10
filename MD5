@@ -1,0 +1,16 @@
+28f280b404d6b517787820f039141fa5 *DESCRIPTION
+8556b1064ab4547d1bc01898fb4a6a79 *NAMESPACE
+e5849169c67a1f2e65994fe446c40e16 *R/bsdr.R
+87e21c9198f0a6de90cdaaf834fb2778 *R/bsef.R
+b3c6c6fc041a07bc1bbf814cf9446d87 *R/cme.R
+67fda50d270726dfd385c81fe70f8a05 *R/ddr.R
+32a0b8044b89711b932501eb24a7e3e9 *README.md
+921ee614632746a2c3c508371c7d307a *man/get_bsdr_data.Rd
+1c3d1a9baed096f2ba7be5e7322e0de3 *man/get_bsef_data.Rd
+1ff9b5215fad0c6dd042ba058bd189ce *man/get_cme_data.Rd
+c0de0e33341ee3af68e0fabe795ee214 *man/get_ddr_data.Rd
+b017c14125e37817d368f3898eaff2f2 *tests/testthat.R
+b67754306b98b9e5dab3a5e1c25ad3ff *tests/testthat/test-bsdr.R
+42dc7d0314e9e2a201be44ae1130f171 *tests/testthat/test-cme.R
+a4bbce0382a4f9dd84f02bd65cdd6e7a *tests/testthat/test-ddr.R
+6c8e5346eecb57c64c07a25118f5f3f2 *tests/testthat/test_bsef.R
